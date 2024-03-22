@@ -2,7 +2,7 @@
 
 Welcome to the Calculator project repository! This is a simple yet effective calculator app designed to help you understand the basics of web development.
 
-![Calculator App](calculator.png)
+Calculator App : [Caculator App]()
 
 ## Subscribe to Our YouTube Channel!
 
